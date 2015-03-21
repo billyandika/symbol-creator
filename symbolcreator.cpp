@@ -7,7 +7,7 @@ int main(int argc, char** argv)
   // Args checking
   if(argc != 4) {
     cerr << "./symbolcreator called with incorrect arguments." << endl;
-    cerr << "Usage: ./symbolcreator 256 1000 outfile" << endl;
+    cerr << "Usage: ./symbolcreator [symbols] [reps] [outfile]" << endl;
     return -1;
   }
   
