@@ -1,5 +1,5 @@
 # Symbol Creator in C++
-Simple C++ app to create file with user-specific number of symbols and size. Supports 1-256 extended ASCII characters and 10000 repetitions. This would be ideal for testing compression algorithms.
+This is a simple C++ app to create file with user-specified number of symbols and size. Supports 1-256 extended ASCII characters and up to 500000 repetitions for a maximum file size of 128MB. This would be ideal for testing compression algorithms.
 
 # Usage
 First, build with make
