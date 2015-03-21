@@ -11,7 +11,7 @@ Next, run the executable.
 
 `./symbolcreator <filesize> <rep> outfile`
 
-Example:
+e.g.
 `./symbolcreator 256 1000 outfile`
 
 This will create a binary file with 256 unique symbols and size 256000 bytes.
